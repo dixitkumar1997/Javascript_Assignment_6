@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(25, 100, 100);
+}
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+#heading{
+margin-bottom: 150px;
+color: white;
+border-bottom: 1px solid white;
+}
+#States{
+    width:fit-content;
+    height: fit-content;
+    background-color: red;
+    border: 2px solid black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
